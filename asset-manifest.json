@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ConversosDolar/static/css/main.6ad00912.css",
-    "main.js": "/ConversosDolar/static/js/main.2b3d35b1.js",
-    "static/js/453.c3c8d65e.chunk.js": "/ConversosDolar/static/js/453.c3c8d65e.chunk.js",
-    "static/media/fondo.jpg": "/ConversosDolar/static/media/fondo.f9735145f923ef4b17b3.jpg",
-    "index.html": "/ConversosDolar/index.html",
-    "main.6ad00912.css.map": "/ConversosDolar/static/css/main.6ad00912.css.map",
-    "main.2b3d35b1.js.map": "/ConversosDolar/static/js/main.2b3d35b1.js.map",
-    "453.c3c8d65e.chunk.js.map": "/ConversosDolar/static/js/453.c3c8d65e.chunk.js.map"
+    "main.css": "/ConversorDolares/static/css/main.467b2137.css",
+    "main.js": "/ConversorDolares/static/js/main.bf8a6d07.js",
+    "static/js/453.c3c8d65e.chunk.js": "/ConversorDolares/static/js/453.c3c8d65e.chunk.js",
+    "static/media/fondo.jpg": "/ConversorDolares/static/media/fondo.f9735145f923ef4b17b3.jpg",
+    "index.html": "/ConversorDolares/index.html",
+    "main.467b2137.css.map": "/ConversorDolares/static/css/main.467b2137.css.map",
+    "main.bf8a6d07.js.map": "/ConversorDolares/static/js/main.bf8a6d07.js.map",
+    "453.c3c8d65e.chunk.js.map": "/ConversorDolares/static/js/453.c3c8d65e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ad00912.css",
-    "static/js/main.2b3d35b1.js"
+    "static/css/main.467b2137.css",
+    "static/js/main.bf8a6d07.js"
   ]
 }
